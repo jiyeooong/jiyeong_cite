@@ -262,6 +262,18 @@ h3 {
   text-underline-offset: 0.13em;
 }
 
+.timeline article h3 span .scope {
+  color: #c92828;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.timeline article h3 span .scope-strong {
+  color: #c92828;
+  font-weight: 700;
+  text-decoration: none;
+}
+
 .timeline p:last-child,
 .work-item p:last-child {
   margin-bottom: 0;
