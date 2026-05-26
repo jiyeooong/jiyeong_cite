@@ -265,13 +265,15 @@ h3 {
 .timeline article h3 span .scope {
   color: #c92828;
   font-weight: 400;
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-offset: 0.13em;
 }
 
 .timeline article h3 span .scope-strong {
   color: #c92828;
-  font-weight: 700;
-  text-decoration: none;
+  font-weight: 400;
+  text-decoration: underline;
+  text-underline-offset: 0.13em;
 }
 
 .timeline p:last-child,
