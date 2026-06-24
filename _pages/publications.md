@@ -15,6 +15,10 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h2 class="bibliography">Conference &amp; Preprint</h2>
+{% bibliography --query @*[category=conference] %}
+
+<h2 class="bibliography">Journal</h2>
+{% bibliography --query @*[category=journal] %}
 
 </div>
