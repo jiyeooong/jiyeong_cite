@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Jiyeong Kim profile placeholder</title>
+  <desc id="desc">A clean academic profile placeholder with the initials JK.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7f7f7"/>
+      <stop offset="1" stop-color="#e8eef8"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0v42" fill="none" stroke="#d8dee8" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <rect width="600" height="600" fill="url(#grid)" opacity="0.7"/>
+  <circle cx="300" cy="235" r="86" fill="#ffffff" stroke="#c8d3e5" stroke-width="8"/>
+  <path d="M150 500c19-92 76-142 150-142s131 50 150 142" fill="#ffffff" stroke="#c8d3e5" stroke-width="8" stroke-linecap="round"/>
+  <text x="300" y="564" fill="#1f5fbf" font-family="Georgia, 'Times New Roman', serif" font-size="62" text-anchor="middle">JK</text>
+</svg>
