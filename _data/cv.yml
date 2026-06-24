@@ -1,0 +1,66 @@
+cv:
+  name: Jiyeong Kim
+  label: Integrated M.S./Ph.D. Student, Computer Vision Lab, Ewha Womans University
+  email: wldud8946@gmail.com
+  location: Seoul, South Korea
+  image: ""
+  summary: >
+    Integrated M.S./Ph.D. student at the Computer Vision Lab, Ewha Womans University,
+    advised by Prof. Dongbo Min. Research interests span computer vision, multimodal
+    learning, domain-adaptive semantic segmentation, and self-supervised learning.
+
+  social_networks:
+    - network: GitHub
+      username: jiyeooong
+
+  sections:
+    Education:
+      - institution: Ewha Womans University
+        location: Seoul, South Korea
+        url: http://cvl.ewha.ac.kr/
+        area: Computer Science / Computer Vision
+        studyType: Integrated M.S./Ph.D.
+        start_date: 2021
+        end_date: Present
+        highlights:
+          - "Computer Vision Lab, advised by Prof. Dongbo Min."
+
+    Experience:
+      - company: Computer Vision Lab, Ewha Womans University
+        position: Integrated M.S./Ph.D. Student
+        location: Seoul, South Korea
+        start_date: 2021
+        end_date: Present
+        summary: "Advisor: Prof. Dongbo Min."
+
+      - company: LG Electronics (Industry Project)
+        position: Project Leader
+        location: South Korea
+        start_date: 2023-04
+        end_date: 2024-04
+        summary: >
+          A Study on Self-supervised Learning for Driving Error and Obstructed Zone
+          Prediction in Robot Cleaner.
+
+    Awards:
+      - title: Ewha Boeing Scholarship
+        date: 2024
+
+      - title: Excellence Award, 8th K-Hackathon Immersive Content App Development Challenge (Nationwide)
+        awarder: Ministry of Science and ICT (MSIT) & Software Education Innovation Center
+        date: 2020
+        summary: >
+          Development of Real-Time Objects Segmentation for Dual-Camera Synthesis in iOS
+          (Journal of Internet Computing and Services).
+        url: https://doi.org/10.7472/jksii.2021.22.3.37
+
+      - title: "Bronze Prize, Global Indie Game Development Contest (GIGDC), Planning Division (University Category, Nationwide)"
+        date: 2020
+
+      - title: Bronze Prize, SW Challenge (Nationwide)
+        awarder: Korea Software Industry Association
+        date: 2019
+
+      - title: President's Award, Startup Idea Contest
+        awarder: Nowon Green Campus Town
+        date: 2019

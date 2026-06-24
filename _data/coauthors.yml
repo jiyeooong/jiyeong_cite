@@ -1,0 +1,6 @@
+# Map last names to author info so co-authors are linked/abbreviated on the
+# publications page. Add entries as needed, e.g.:
+#
+# "min":
+#   - firstname: ["Dongbo"]
+#     url: http://cvl.ewha.ac.kr/
