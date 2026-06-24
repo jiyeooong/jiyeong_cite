@@ -3,7 +3,6 @@
 Personal academic website of Jiyeong Kim, built with the
 [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme.
 
-- **Live site:** https://jiyeooong.github.io/jiyeong_cite
 - **Content to edit:**
   - `_pages/about.md` — bio, profile photo, affiliation
   - `_bibliography/papers.bib` — publications
