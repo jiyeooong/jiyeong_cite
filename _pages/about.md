@@ -8,10 +8,7 @@ profile:
   align: right
   image: jiyeong_profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Computer Vision Lab</p>
-    <p>Ewha Womans University</p>
-    <p>Seoul, South Korea</p>
+  more_info:
 
 selected_papers: false # publications are shown directly on the homepage below
 social: true # includes social icons at the bottom of the page
@@ -26,6 +23,17 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<style>
+  .profile.float-right {
+    max-width: 290px;
+    margin-left: 2rem;
+  }
+
+  .profile figure {
+    margin-bottom: 0;
+  }
+</style>
 
 I am an Integrated M.S./Ph.D. student at the [Computer Vision Lab](http://cvl.ewha.ac.kr/), Ewha Womans University, advised by Prof. Dongbo Min.
 
