@@ -6,7 +6,7 @@ subtitle: Integrated M.S./Ph.D. Student, <a href='http://cvl.ewha.ac.kr/'>Comput
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jiyeong_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Computer Vision Lab</p>
