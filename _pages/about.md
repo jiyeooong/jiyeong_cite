@@ -13,7 +13,7 @@ profile:
     <p>Ewha Womans University</p>
     <p>Seoul, South Korea</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # publications are shown directly on the homepage below
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -32,3 +32,13 @@ I am an Integrated M.S./Ph.D. student at the [Computer Vision Lab](http://cvl.ew
 My research focuses on building models that understand real-world visual data, adapt across domains, and remain practical enough to deploy. My interests span computer vision, multimodal learning, domain-adaptive semantic segmentation, and self-supervised learning.
 
 Feel free to reach out via [email](mailto:wldud8946@gmail.com) if you would like to discuss research or collaboration.
+
+<div class="publications">
+
+<h2 class="bibliography">Conference &amp; Preprint</h2>
+{% bibliography --query @*[category=conference] %}
+
+<h2 class="bibliography">Journal</h2>
+{% bibliography --query @*[category=journal] %}
+
+</div>
