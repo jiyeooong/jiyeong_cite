@@ -33,6 +33,8 @@ My research focuses on building models that understand real-world visual data, a
 
 Feel free to reach out via [email](mailto:wldud8946@gmail.com) if you would like to discuss research or collaboration.
 
+<div class="clearfix"></div>
+
 <div class="publications">
 
 <h2 class="bibliography">Conference &amp; Preprint</h2>
