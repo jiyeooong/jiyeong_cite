@@ -125,7 +125,7 @@ latest_posts:
   </div>
   <div class="hero-right">
     <p class="hero-bio">
-      Hi! I am an Integrated M.S./Ph.D. student at the <a href="http://cvl.ewha.ac.kr/">Computer Vision Lab</a>, Ewha Womans University, advised by Prof. Dongbo Min. My research interests span computer vision, multimodal learning, domain-adaptive semantic segmentation, and self-supervised learning.
+      Hi! I am an Integrated M.S./Ph.D. student at the <a href="http://cvl.ewha.ac.kr/">Computer Vision Lab</a>, Ewha Womans University, advised by Prof. Dongbo Min. My research interests include unified multimodal models, generative models, video understanding, and model efficiency. Currently, I am working on unified multimodal models that both understand and generate, with a focus on personalizing them to individual concepts.
     </p>
     <div class="hero-socials">
       <a href="mailto:wldud8946@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i> Email</a>
