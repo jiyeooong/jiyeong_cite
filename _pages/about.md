@@ -120,7 +120,7 @@ latest_posts:
 
 <div class="hero">
   <div class="hero-left">
-    <img class="hero-photo" src="{{ '/assets/img/jiyeong_profile.jpg' | relative_url }}" alt="Jiyeong Kim">
+    <img class="hero-photo" src="{{ '/assets/img/jiyeong_profile.jpg' | relative_url }}?v=2" alt="Jiyeong Kim">
     <h1 class="hero-name">Jiyeong Kim</h1>
   </div>
   <div class="hero-right">
