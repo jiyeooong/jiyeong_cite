@@ -116,6 +116,43 @@ latest_posts:
     .hero-left { align-items: center; }
     .hero-socials { justify-content: center; }
   }
+
+  /* Top-level section headings (Publications, Academic Service) */
+  .section-title {
+    font-size: 1.9rem;
+    font-weight: 600;
+    color: var(--global-text-color);
+    margin: 2.75rem 0 1.25rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--global-divider-color);
+    text-align: left;
+  }
+
+  /* Academic Service timeline list */
+  .service-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+    margin-bottom: 1rem;
+  }
+  .service-row {
+    display: grid;
+    grid-template-columns: 90px 1fr;
+    gap: 1.5rem;
+    align-items: baseline;
+  }
+  .service-year {
+    color: var(--global-text-color-light, #8a8a8a);
+    font-size: 0.95rem;
+  }
+  .service-desc {
+    color: var(--global-text-color);
+    font-size: 1.05rem;
+    line-height: 1.5;
+  }
+  @media (max-width: 640px) {
+    .service-row { grid-template-columns: 60px 1fr; gap: 1rem; }
+  }
 </style>
 
 <div class="hero">
@@ -138,6 +175,8 @@ latest_posts:
 
 <div class="clearfix"></div>
 
+<h2 class="section-title">Publications</h2>
+
 <div class="publications">
 
 <h2 class="bibliography">Conference &amp; Preprint</h2>
@@ -146,4 +185,13 @@ latest_posts:
 <h2 class="bibliography">Journal</h2>
 {% bibliography --query @*[category=journal] %}
 
+</div>
+
+<h2 class="section-title">Academic Service</h2>
+
+<div class="service-list">
+  <div class="service-row">
+    <div class="service-year">2027</div>
+    <div class="service-desc">Reviewer: AAAI</div>
+  </div>
 </div>
