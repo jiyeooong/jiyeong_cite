@@ -25,6 +25,16 @@ cv:
         highlights:
           - "Computer Vision Lab, advised by Prof. Dongbo Min."
 
+      - institution: Seoul Women's University
+        location: Seoul, South Korea
+        area: Computer Science and Engineering
+        studyType: B.S.
+        start_date: 2017-02
+        end_date: 2021-02
+        highlights:
+          - "GPA: 4.19 / 4.5."
+          - "Graduated as salutatorian (ranked 2nd in the department)."
+
     Experience:
       - company: Computer Vision Lab, Ewha Womans University
         position: Integrated M.S./Ph.D. Student
